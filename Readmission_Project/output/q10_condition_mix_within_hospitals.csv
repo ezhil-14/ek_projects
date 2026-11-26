@@ -1,0 +1,11 @@
+condition,heart_failure_group,hospitals,pct_above_expected
+COPD,HF above expected,1123,56.9
+COPD,HF at or below expected,1178,38.1
+Heart Attack (AMI),HF above expected,838,58.9
+Heart Attack (AMI),HF at or below expected,898,41.0
+Heart Bypass (CABG),HF above expected,383,56.1
+Heart Bypass (CABG),HF at or below expected,495,45.1
+Hip/Knee Replacement,HF above expected,608,52.0
+Hip/Knee Replacement,HF at or below expected,742,46.4
+Pneumonia,HF above expected,1270,58.0
+Pneumonia,HF at or below expected,1325,36.9

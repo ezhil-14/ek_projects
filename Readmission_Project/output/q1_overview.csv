@@ -1,0 +1,2 @@
+hospitals,hospital_condition_rows,rows_with_ratio,pct_rows_with_ratio,avg_ratio,pct_above_expected,period_start,period_end
+3055,18330,11720,63.9,1.002,48.1,2021-07-01,2024-06-30
