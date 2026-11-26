@@ -1,0 +1,5 @@
+ownership_group,hospitals,rows_with_ratio,avg_ratio,pct_above_expected
+For-profit,544,2093,1.017,54.9
+Government,385,1441,1.001,50.0
+Non-profit,1828,8042,0.998,46.1
+Other,61,105,0.956,37.1

@@ -1,0 +1,7 @@
+condition,hospitals_reported,avg_readmission_rate_pct,avg_ratio,pct_above_expected,worst_ratio
+Heart Failure,2621,19.38,1.001,48.9,1.361
+COPD,2323,18.0,1.001,47.2,1.255
+Pneumonia,2715,15.6,1.001,46.8,1.426
+Heart Attack (AMI),1736,13.42,1.002,49.7,1.264
+Heart Bypass (CABG),878,10.68,1.002,49.9,1.424
+Hip/Knee Replacement,1447,5.49,1.004,47.9,1.63

@@ -1,0 +1,7 @@
+condition,al_hospitals,al_avg_ratio,us_avg_ratio,ratio_gap,al_pct_above,us_pct_above,al_readmission_rate_pct,us_readmission_rate_pct
+Heart Bypass (CABG),19,1.045,1.002,0.043,63.2,49.9,11.52,10.68
+Hip/Knee Replacement,31,1.039,1.004,0.035,48.4,47.9,5.55,5.49
+Heart Attack (AMI),30,1.029,1.002,0.027,66.7,49.7,13.47,13.42
+Heart Failure,55,1.009,1.001,0.007,60.0,48.9,19.09,19.38
+Pneumonia,64,1.003,1.001,0.002,51.6,46.8,14.95,15.6
+COPD,48,0.996,1.001,-0.005,35.4,47.2,17.07,18.0
